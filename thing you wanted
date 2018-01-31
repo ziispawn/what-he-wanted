@@ -1,0 +1,7 @@
+data:text/html, <title>Thing you wanted</title>
+
+<body contenteditable style=
+                            " font-size:.5em; line-height:1.4; max-width: 60em; margin: 0 auto; padding: 4em; background: white; color: #adebad;">
+<h1>my heading thing<h1>
+<p>This not a paragraph<p>
+<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
